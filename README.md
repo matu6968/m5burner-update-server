@@ -6,7 +6,7 @@ It offers other architecture support then just x64 on the official version by M5
 
 How to use:
 
-1. Install [Go](https://go.dev/install) if not already installed
+1. Install [Go](https://go.dev/doc/install) if not already installed
 2. Clone this repo
 4. Run go build -o m5burner-update-server
 5. (optional) To set a custom web server port: Make  .env file with the contents: PORT=<any_available_port>
